@@ -8,5 +8,6 @@ public class gitdemo {
         System.out.println("1111111111111");
         System.out.println("master test");
         System.out.println("hot-fex test");
+        System.out.println("pull test");
     }
 }
